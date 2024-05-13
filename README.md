@@ -45,8 +45,9 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name:MANOGARAN S
+### Register Number:212223240081
+![Screenshot 2024-05-13 174409](https://github.com/manogarans/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/139331782/6c287c46-35d4-48cb-be47-e792ec48a06f)
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
