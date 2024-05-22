@@ -1,5 +1,5 @@
-# Ex. No.  - SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
-### DATE: 
+# Ex. No. 6.1- SIMULATION OF PRE PROCESSING IN ADDITIVE MANUFACTURING
+### DATE: 07-05-2024
 ## AIM:
 ### To simulate the Pre Processing for 3D printing.
 
@@ -44,10 +44,12 @@
 ![123_3](https://github.com/Sellakumar1987/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/113594316/ebb3a944-eeb0-45e8-9841-d58997840c54)
 
 ## Output:
+![image](https://github.com/AshwinAkash24/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/144979248/ff18d012-ae83-43f2-9c8a-b95573b2be32)
+<br>
+![image](https://github.com/AshwinAkash24/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/144979248/ce24b4bc-0370-4184-9543-abc52c3a2b07)
 
-### Name:MANOGARAN S
-### Register Number:212223240081
-![Screenshot 2024-05-13 174409](https://github.com/manogarans/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/139331782/6c287c46-35d4-48cb-be47-e792ec48a06f)
+### Name: MANOGARAN S
+### Register Number: 212223240081
 
 ## Result: 
-### Thus the simulation on the Preprocessing in additive manufacturing is completed.
+Thus the simulation on the Preprocessing in additive manufacturing is completed.
